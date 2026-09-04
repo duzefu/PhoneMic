@@ -1,0 +1,41 @@
+phonemic/resources/locales/en_US.json
+  s_2fc235c2f330d0::t_fa78855755c239 75
+tests/test_text_input.py
+  s_2fc235c2f330d0::t_e6d9e87004b302 175-176,180-182,184,186,189-194,196,198-201,203-206,208-220,223,225-226
+tests/test_keyboard.py
+  s_2fc235c2f330d0::t_e6d9e87004b302 291,305-311,338-339,341-342,351-352,354-359,361
+USER_GUIDE.md
+  s_2fc235c2f330d0::t_024c58febd15e7 59-60,62,64,355
+README.md
+  s_2fc235c2f330d0::t_024c58febd15e7 20
+phonemic/gui/text_input.py
+  s_2fc235c2f330d0::t_16c11391940da4 18,24,28-40,168,174,176-177,185-186,194,208-214
+phonemic/gui/keyboard.py
+  s_2fc235c2f330d0::t_312c99e0bf4e9c 21-24,57-58,66,70-73
+phonemic/gui/settings_dialog.py
+  s_2fc235c2f330d0::t_fa78855755c239 203
+phonemic/resources/locales/zh_CN.json
+  s_2fc235c2f330d0::t_fa78855755c239 76
+phonemic/resources/locales/zh_TW.json
+  s_2fc235c2f330d0::t_fa78855755c239 76
+phonemic/utils/settings_manager.py
+  s_2fc235c2f330d0::t_fa78855755c239 59,92
+phonemic/resources/locales/zh_HK.json
+  s_2fc235c2f330d0::t_fa78855755c239 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "24282fcba8b763b082dfaddca2d1e2703bf4d058",
+  "prompts": {},
+  "sessions": {
+    "s_2fc235c2f330d0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5f426622-07aa-4589-84f3-97c340af2ac2",
+        "model": "unknown"
+      },
+      "human_author": "zefu.du <zefu.du@gl-inet.com>"
+    }
+  }
+}
